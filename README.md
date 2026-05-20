@@ -1,4 +1,4 @@
-# Hospital Operating System Core
+<h1 align="center">Hospital Operating System Core</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Healthcare%20UI-111111?style=flat-square" />
@@ -10,9 +10,7 @@
 
 ## Overview
 
-A web-based hospital system focused on designing intuitive user interfaces for healthcare staff workflows.
-
-This project emphasizes usability, clarity, and efficiency in real-world hospital operations, where users interact with the system under time pressure and high workload conditions.
+Official hospital web system used in a real healthcare environment to support staff workflows with intuitive interfaces for clinical operations under high workload and time-sensitive conditions.
 
 ---
 
@@ -53,7 +51,7 @@ The system was designed with a workflow-first approach:
 
 ## User Flow
 
-Staff → Interface → Task Selection → Data Input → Validation → System Response
+Design → Code Implementation → Responsive Iteration → Deployment  → Staff Usage
 
 ---
 
